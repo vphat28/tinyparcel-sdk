@@ -1,0 +1,6 @@
+{
+    "name": "vphat28/tinyparcelsdk-php",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
